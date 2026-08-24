@@ -2,6 +2,7 @@
 
 Arduino clock that draws time on a 128×32 SSD1306 OLED via Adafruit GFX/SSD1306, with a DS1307 RTC and a notched-shaft encoder to set hours and minutes. MsTimer2 services the encoder button. Visual Micro `.vcxproj` is included so the sketch can be opened from Visual Studio.
 
+**Source last updated:** 2022-05-08  
 **Language:** C++ / Arduino  
 **Target:** Arduino AVR with I2C OLED + RTC and rotary encoder  
 **Output:** Arduino sketch plus Visual Micro `.vcxproj`
