@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Zip/binary artifacts
+*.zip
