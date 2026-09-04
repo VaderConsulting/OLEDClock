@@ -18,6 +18,11 @@ Arduino clock that draws time on a 128×32 SSD1306 OLED via Adafruit GFX/SSD1306
 
 Open `OLED_Clock/OLED_Clock.ino` in the Arduino IDE, or `OLED_Clock/OLED_Clock.vcxproj` in Visual Studio with Visual Micro.
 
+## Requirements
+
+- Arduino IDE
+- Visual Studio 2010 or later
+
 ## Attribution and provenance
 
 Dave Robinson / VaderConsulting sketch from the Arduino archive. Uses Adafruit GFX/SSD1306, RTClib, MsTimer2, and Lester Lo NSEncoder (sibling library repos).
